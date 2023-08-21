@@ -1,0 +1,10 @@
+{
+    "dart.flutterSdkPath": "/Users/thiqatech/flutter_3_7_0",
+
+    "phpunit.preTask": "",
+    "php.stubs": [
+        
+
+        "*"
+    ]
+}

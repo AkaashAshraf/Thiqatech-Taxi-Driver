@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509870041411",
+    "project_id": "taxi-cee27",
+    "storage_bucket": "taxi-cee27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509870041411:android:6532e58e213dc75eb227f6",
+        "android_client_info": {
+          "package_name": "thiqatech.taxi.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509870041411-f0ao3eu8ib40mg3rchse2cevhq31kga5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMLocgfS1pBQBte4k1xIaFzn5xd6mxD_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509870041411-f0ao3eu8ib40mg3rchse2cevhq31kga5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
