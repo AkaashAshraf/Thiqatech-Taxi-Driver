@@ -58,7 +58,7 @@ String ischeckownerordriver = '';
 //base url
 String url =
     'http://taxiapp.thiqatech.com/public/'; //please add the '/' at the end of the url as 'https://yourwebsite.com/'
-String mapkey = 'AIzaSyCaCSJ0BZItSyXqBv8vpD1N4WBffJeKhLQ';
+String mapkey = 'AIzaSyBGjxxqArR6uOgkhasnr1y5hfkTq1WDyrw';
 String mapStyle = '';
 
 getDetailsOfDevice() async {
